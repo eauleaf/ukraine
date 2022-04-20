@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-###### (an open-source poem; do something valuable with it)
+###### (an open-source poem; do something with it, it's public-domain, make it your own)
 <br/>
 
 **To the heroes of Ukraine**
@@ -106,9 +106,9 @@ Inside the city there are so many more
 <br/>
 Ukraine, brave Ukraine, what will your destiny be
 
-With fist against tank you defend democracy 
+With fist against tank you defend your democracy 
 
-Ukraine, sovereign Ukraine, you fight the global fight
+Ukraine, sovereign Ukraine, you fight a global fight
 
 Because you’re the crossroads of East-West military might
 
@@ -122,9 +122,9 @@ We watched you rise in revolution
 
 We cheered your EuroMaidan
 
-We saw the same scenes last century, vowing never again
+We saw the same scenes last century, and vowed never again
 
-Events are here a second time, but we’re reluctant to lean in
+Events are carbon-copy, but we’re reluctant to lean in
 
 
 <br/>
@@ -132,13 +132,13 @@ In democracy’s war, you are the front line
 
 Your geography’s blessed and cursed at the same time
 
-We elected our leaders to do for each country what’s best
+We elect our leaders to do for each country what’s best
 
 But a partial Ukraine, *no* politician survives that test
 
 
 <br/>
-In a land-locked Ukraine, grain prices *never* go down
+In a land-locked Ukraine, grain prices never go down
 
 And cities lost to oppression make the voting public frown
 
@@ -154,13 +154,13 @@ We want rhetoric
 
 We want raw emotion 
 
-On the face of those we elect
+On the faces of those we elect
 
 
 <br/>
 When we look back years from now
 
-Whose names will we remember, and whose will we forget
+Whose names to recall, and which to forget
 
 We still remember Churchill, 
 
@@ -172,25 +172,27 @@ Scholz, Biden, Morrison, Johnson, Trudeau and Macron... take that bet
 
 The battles aren’t yet written, the trenches aren’t yet set
 
-We can handle hardship but not for its own sake
+We can handle hardship but not for its sake
 
-Trade us our children's future dispossessed aggression and heartache
+Trade us our children's future bereft aggression and heartache
 
+
+<br/>
 Send air systems and heavy tanks, hand the public what it wants
 
 Without foes and champions, we see *only* the price of croissants
 
 
 <br/>
-Let us stand with the heroes, fighting with burnt tires, tractors, and guns
+Let us stand with Ukraine's heroes, fighting with burnt tires, tractors, and guns
 
-Let us stand with the people, with those mothers holding lifeless sons
+Let us stand with their people, with those mothers holding lifeless sons
 
-Let us give of our arsenals, our morality's at stake
+We want to share our arsenals, our morality's at stake
 
-Let us stand against evil, for humankind's sake
+We want to tower over evil, for humankind's sake
 
-The public wants to rally, *twenty-thousand* foreign volunteers
+The public yearns to rally, *twenty-thousand* foreign volunteers
 
 Give us something to believe in, because what we see from you is fear
 
@@ -198,7 +200,10 @@ Give us something to believe in, because what we see from you is fear
 <br/>
 <br/>
 
-***
+<!-- *** -->
+<!-- <hr style="height:5px;"/> -->
+
+<hr style="border-top: 1px solid black;"/>
 
 
 To help Ukraine, this link contains a list of legitimate orgs: 
@@ -206,11 +211,11 @@ To help Ukraine, this link contains a list of legitimate orgs:
 
 ***
 
-To contact your Democratic Representatives to express support for Ukraine:
+To contact your Democratic Representative to express support for Ukraine:
 
+| U.K. Parliament: <https://www.parliament.uk/get-involved/contact-an-mp-or-lord/> or <https://www.writetothem.com/>
 | U.S. House: <https://www.house.gov/representatives/find-your-representative>
 | U.S. Senate: <https://www.house.gov/representatives/find-your-representative>
-| U.K. Parliament: <https://www.parliament.uk/get-involved/contact-an-mp-or-lord/> or <https://www.writetothem.com/>
 | French Parliament: <https://www.assemblee-nationale.fr/dyn/vos-deputes>
 | Australian Parliament: <https://www.aph.gov.au/Senators_and_Members/Guidelines_for_Contacting_Senators_and_Members>
 | Canadian Parliament: <https://www.ourcommons.ca/en/contact-us>
@@ -221,6 +226,10 @@ To contact your Democratic Representatives to express support for Ukraine:
 If nothing else, send them a poem.
 
 ***
+
+<br/>
+
+![](www/stamp.png)
 
 <br/>
 
