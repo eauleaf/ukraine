@@ -1,0 +1,221 @@
+---
+title: "Ukraine, sovereign Ukraine"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+###### (an open-source poem; do something valuable with it)
+<br/>
+
+**To the heroes of Ukraine**
+
+|      **standing opposed the march of tyranny**
+
+
+
+<br/>
+![](www/skakun.png)
+![](www/yalanskaya.png)
+
+###### --------  Vitalii Volodymyrovych Skakun  ------  ------  Anastasiia Yalanskaya  ------
+
+
+
+***
+
+<br/>
+Mother held him in her arms, whispering to him her heart
+
+My dreams are simple, beautiful boy
+
+Arrive there, and I’ll have accomplished my part
+
+Spend your childhood moments happy in our home
+
+Run in fields of wheat, they’ll soon be your own
+
+Become a fair man for me like your father
+
+Study maths or art, find love
+
+Share life with another
+
+
+<br/>
+Little Vitalii’s fingers around her thumb wrapped 
+
+I’ll be more, Mom, I’ll be more for you than that 
+
+Though my days will be short, I carry courage untapped
+
+Yes, I will be fair, be kind, and be fun
+
+but will share my life with more than just one
+
+
+<br/>
+Beneath the bridge outside Henichesk city
+
+In a uniform banded with yellow tape, you’ll find my torn body
+
+When confronted with the choice, it was always to be
+
+My nation and my lands for my life as my legacy
+
+
+<br/>
+My brilliant Anastasiia, her father looked into her eyes
+
+My dream for you is to be carefree, you are my dearest prize
+
+Travel the world, understand it by tour
+
+Then live in the West where security’s sure
+
+Perhaps study to teach, or work in AI
+
+When you see hurt and inequity, stand afar and decry
+
+
+<br/>
+Her dark green eyes admired his strong chin
+
+I love you my Dad, that’s not enough, the dream is too thin
+
+I need to live in a world that is kind and is just
+
+In humanity’s long struggle, I have to join in
+
+It’s part of me, it comes from you, I want decency to win
+
+
+<br/>
+Near a checkpoint outside Bucha in a car with close friends
+
+Are what remains of us and our humanitarian errands
+
+My heart riddled with bullets, no longer a metaphor
+
+Inside the city there are so many more
+
+
+<br/>
+Ukraine, brave Ukraine, what will your destiny be
+
+With fist against tank you preserve your democracy 
+
+Ukraine, sovereign Ukraine, you fight the global fight
+
+Because you’re the crossroads of Europe’s military might
+
+
+<br/>
+We watched you starve under Stalin
+
+We watched armored convoys roll in
+
+We watched you rise in revolution
+
+We cheered your EuroMaidan
+
+We saw the same scenes last century, vowing never again
+
+Events are here a second time, but we’re reluctant to lean in
+
+
+<br/>
+In democracy’s war, you are the front line
+
+Your geography’s blessed and cursed at the same time
+
+We elected our leaders to do for each country what’s best
+
+But a partial Ukraine, *no* politician survives that test
+
+
+<br/>
+In a land-locked Ukraine, grain prices *never* go down
+
+And cities lost to oppression make the voting public frown
+
+A depressed populace just wants a change
+
+No free-world politician's outside that arrow’s range
+
+
+<br/>
+We want fearless leadership
+
+We want rhetoric
+
+We want raw emotion 
+
+On the face of those we elect
+
+
+<br/>
+When we look back years from now
+
+Whose names will we remember, and whose will we forget
+
+We still remember Churchill, 
+
+But Chamberlain, we have to Google it
+
+
+<br/>
+Scholz, Biden, Morrison, Johnson, Trudeau and Macron... take that bet
+
+The battles aren’t yet written, the trenches aren’t yet set
+
+
+<br/>
+Send air systems and heavy tanks, hand the public what it wants
+
+Without foes and champions, we see only the price of croissants
+
+
+<br/>
+Let us stand with the heroes, fighting with burnt tires, tractors, and guns
+
+Let us stand with the people, with the mothers holding lifeless sons
+
+The public wants to rally, *twenty-thousand* foreign volunteers
+
+Give us something to believe in, because what we see from you is fear
+
+
+<br/>
+<br/>
+
+***
+
+
+To help Ukraine, this link contains a list of legitimate sites: 
+<https://www.supportukraine.co/>
+
+***
+
+To contact your Democratic Representatives to express support for Ukraine:
+
+| U.S. House: <https://www.house.gov/representatives/find-your-representative>
+| U.S. Senate: <https://www.house.gov/representatives/find-your-representative>
+| U.K. MP or Lord: <https://www.parliament.uk/get-involved/contact-an-mp-or-lord/> or <https://www.writetothem.com/>
+| French Parliament: <https://www.assemblee-nationale.fr/dyn/vos-deputes>
+| Australian Parliament: <https://www.aph.gov.au/Senators_and_Members/Guidelines_for_Contacting_Senators_and_Members>
+| Canadian Representative: <https://www.ourcommons.ca/en/contact-us>
+| German Parliament: <https://www.bundestag.de/abgeordnete>
+
+***
+
+<br/>
+
+|     If nothing else, send your representative a poem.
+
+<br/>
+<br/>
+
